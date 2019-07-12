@@ -9,3 +9,5 @@ news
 hello world!!!
 
 amend line
+
+I'm going to buy a macbook.
